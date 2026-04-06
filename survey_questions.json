@@ -6,151 +6,376 @@
     {
       "prompt": "How often do you review the questions or tasks you answered incorrectly after an exam?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How consistently do you identify the reason behind each mistake you made?",
       "options": [
-        {"text": "Very consistently", "score": 0},
-        {"text": "Mostly consistently", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Seldom", "score": 3},
-        {"text": "Not at all", "score": 4}
+        {
+          "text": "Very consistently",
+          "score": 0
+        },
+        {
+          "text": "Mostly consistently",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Seldom",
+          "score": 3
+        },
+        {
+          "text": "Not at all",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you compare your exam result with your original study plan?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you write down lessons learned for the next exam?",
       "options": [
-        {"text": "Every time", "score": 0},
-        {"text": "Frequently", "score": 1},
-        {"text": "Occasionally", "score": 2},
-        {"text": "Almost never", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Every time",
+          "score": 0
+        },
+        {
+          "text": "Frequently",
+          "score": 1
+        },
+        {
+          "text": "Occasionally",
+          "score": 2
+        },
+        {
+          "text": "Almost never",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How likely are you to change your revision schedule after seeing an exam result?",
       "options": [
-        {"text": "Very likely", "score": 0},
-        {"text": "Likely", "score": 1},
-        {"text": "Unsure", "score": 2},
-        {"text": "Unlikely", "score": 3},
-        {"text": "Very unlikely", "score": 4}
+        {
+          "text": "Very likely",
+          "score": 0
+        },
+        {
+          "text": "Likely",
+          "score": 1
+        },
+        {
+          "text": "Unsure",
+          "score": 2
+        },
+        {
+          "text": "Unlikely",
+          "score": 3
+        },
+        {
+          "text": "Very unlikely",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you identify topics that need deeper practice for the next exam?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How regularly do you ask for feedback from a teacher or classmate after an exam?",
       "options": [
-        {"text": "Very regularly", "score": 0},
-        {"text": "Regularly", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Seldom", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Very regularly",
+          "score": 0
+        },
+        {
+          "text": "Regularly",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Seldom",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you reflect on whether time management affected your exam performance?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you change your note-taking or revision method after an exam?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How consistently do you set clear goals for the next exam based on the previous one?",
       "options": [
-        {"text": "Very consistently", "score": 0},
-        {"text": "Mostly consistently", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Seldom", "score": 3},
-        {"text": "Not at all", "score": 4}
+        {
+          "text": "Very consistently",
+          "score": 0
+        },
+        {
+          "text": "Mostly consistently",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Seldom",
+          "score": 3
+        },
+        {
+          "text": "Not at all",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you review which preparation habits worked well and which did not?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you revisit difficult exam questions until you understand the correct approach?",
       "options": [
-        {"text": "Every time", "score": 0},
-        {"text": "Frequently", "score": 1},
-        {"text": "Occasionally", "score": 2},
-        {"text": "Almost never", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Every time",
+          "score": 0
+        },
+        {
+          "text": "Frequently",
+          "score": 1
+        },
+        {
+          "text": "Occasionally",
+          "score": 2
+        },
+        {
+          "text": "Almost never",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How likely are you to create a step-by-step improvement plan after receiving results?",
       "options": [
-        {"text": "Very likely", "score": 0},
-        {"text": "Likely", "score": 1},
-        {"text": "Unsure", "score": 2},
-        {"text": "Unlikely", "score": 3},
-        {"text": "Very unlikely", "score": 4}
+        {
+          "text": "Very likely",
+          "score": 0
+        },
+        {
+          "text": "Likely",
+          "score": 1
+        },
+        {
+          "text": "Unsure",
+          "score": 2
+        },
+        {
+          "text": "Unlikely",
+          "score": 3
+        },
+        {
+          "text": "Very unlikely",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How often do you think about how stress or emotions affected your preparation and performance?",
       "options": [
-        {"text": "Always", "score": 0},
-        {"text": "Often", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Rarely", "score": 3},
-        {"text": "Never", "score": 4}
+        {
+          "text": "Always",
+          "score": 0
+        },
+        {
+          "text": "Often",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Rarely",
+          "score": 3
+        },
+        {
+          "text": "Never",
+          "score": 4
+        }
       ]
     },
     {
       "prompt": "How consistently do you apply what you learned from one exam to the next preparation cycle?",
       "options": [
-        {"text": "Very consistently", "score": 0},
-        {"text": "Mostly consistently", "score": 1},
-        {"text": "Sometimes", "score": 2},
-        {"text": "Seldom", "score": 3},
-        {"text": "Not at all", "score": 4}
+        {
+          "text": "Very consistently",
+          "score": 0
+        },
+        {
+          "text": "Mostly consistently",
+          "score": 1
+        },
+        {
+          "text": "Sometimes",
+          "score": 2
+        },
+        {
+          "text": "Seldom",
+          "score": 3
+        },
+        {
+          "text": "Not at all",
+          "score": 4
+        }
       ]
     }
   ],
@@ -158,32 +383,32 @@
     {
       "min_score": 0,
       "max_score": 12,
-      "label": "Excellent reflection routine",
-      "message": "You reflect after exams very consistently and translate those insights into strong future preparation."
+      "label": "Excellent reflective routine",
+      "message": "You consistently analyse your exam performance and convert reflection into clear action for future improvement."
     },
     {
       "min_score": 13,
       "max_score": 24,
-      "label": "Strong reflection habits",
-      "message": "Your reflection habits are well developed. A little more structure could make them even more effective."
+      "label": "Strong reflective habits",
+      "message": "Your reflection practices are solid and usually help you improve. Keep refining your notes and follow-up actions."
     },
     {
       "min_score": 25,
       "max_score": 36,
-      "label": "Developing reflection practice",
-      "message": "You show useful reflection behaviors, but they are not always consistent. More regular review would improve future preparation."
+      "label": "Developing reflective habits",
+      "message": "You reflect sometimes, but your preparation would improve more if reflection became structured and regular."
     },
     {
       "min_score": 37,
       "max_score": 48,
-      "label": "Limited reflection use",
-      "message": "You reflect sometimes, but the process is irregular. Written notes, feedback, and action planning would help you improve more clearly."
+      "label": "Limited reflective practice",
+      "message": "You do not yet reflect consistently after exams. Start reviewing mistakes, causes, and next steps after each result."
     },
     {
       "min_score": 49,
       "max_score": 60,
-      "label": "Very low reflection routine",
-      "message": "Reflection is currently very limited. Start with a simple post-exam routine: review mistakes, identify causes, and set clear actions for the next exam."
+      "label": "Minimal reflection - action needed",
+      "message": "Reflection is very limited at the moment. Begin a simple post-exam routine immediately to identify patterns and improve future preparation."
     }
   ]
 }
